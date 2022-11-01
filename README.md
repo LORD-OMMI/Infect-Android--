@@ -8,24 +8,36 @@ internet
 external storage permission
 storage 400 MB
 1gb ram
+
+
+
+
+
 FEATURES :
 [+] Dangerous virus tool !
 [+] Updated maintainence !
 [+] Easy for beginners !
 [+] Working virus tool for termux !
 INSTALLATION [Termux] :
-apt-get update -y
-apt-get upgrade -y
-pkg install python -y
-pkg install python2 -y
-pkg install git -y
-pip install lolcat
-git clone https://github.com/noob-hackers/infect
-cd $HOME
-ls
-cd infect
-ls
-bash infect.sh
+
+
+
+1. apt-get update -y
+2. apt-get upgrade -y
+3. pkg install python -y
+4. pkg install python2 -y
+5. pkg install git -y
+6. pip install lolcat
+7. git clone https://github.com/noob-hackers/infect
+8. cd $HOME
+9. ls
+10. cd infect
+11. ls
+12.bash infect.sh
+
+
+
+
 [+]-- Now you need internet connection to continue further process...
 [+]-- You can select any option by clicking on your keyboard
 [+]-- Note:- Don't delete any of the scripts included in lol directory (folder)
