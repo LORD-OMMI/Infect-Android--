@@ -14,10 +14,15 @@ storage 400 MB
 
 
 FEATURES :
+
 [+] Dangerous virus tool !
+
 [+] Updated maintainence !
+
 [+] Easy for beginners !
+
 [+] Working virus tool for termux !
+
 INSTALLATION [Termux] :
 
 
@@ -33,16 +38,21 @@ INSTALLATION [Termux] :
 9. ls
 10. cd infect
 11. ls
-12.bash infect.sh
+12. bash infect.sh
 
 
 
 
 [+]-- Now you need internet connection to continue further process...
+
 [+]-- You can select any option by clicking on your keyboard
+
 [+]-- Note:- Don't delete any of the scripts included in lol directory (folder)
+
 USAGE OPTIONS [Termux] :
+
 INFECT :
+
 
 From this option you will get link of virus in your termux just send that link to your victim and let the fun happen.
 SAVE :
